@@ -7,14 +7,13 @@ To this page you should add links to your interactive html-maps that are located
 Here is an example how to do it in MarkDown for user VuokkoH:
 
 ```
-[Link to test map](https://autogis-2019.github.io/exercise-5-VuokkoH/test_map.html)
 ```
 
 ## My maps
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
+ - [My static map](https://github.com/AutoGIS-2020/exercise-5-amiett/blob/master/docs/cycling_accidents_72.png)
+ - [My interactive map](https://github.com/AutoGIS-2020/exercise-5-amiett/blob/master/docs/accidents_map_2019.html)
  - [Link to test map](https://autogis-2018.github.io/exercise-5-VuokkoH/test_map.html)
 

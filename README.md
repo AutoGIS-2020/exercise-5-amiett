@@ -71,8 +71,17 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
-  
-  
+
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: 0.0 / 0.0
+### Comments
+
+Good map ideas that were also well executed. Both informative, readable and pleasant to look and explore. In the static map, I was left wondering if the white municipalities didn't have a single accident. The dark and restrained basemap works well as a background for the colorful heatmap.
   
   
   
